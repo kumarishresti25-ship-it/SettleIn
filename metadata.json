@@ -1,0 +1,8 @@
+{
+  "name": "Remix SettleIn",
+  "description": "A relocation planner for students and fresh graduates moving to a new city — manage neighbourhoods, commute, monthly budgets, and moving tasks in one place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
